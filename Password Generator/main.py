@@ -65,7 +65,7 @@ if __name__ == "__main__":
     # creating a window using the Tk() class
     gui_root = Tk()
     # setting the title of the window
-    gui_root.title("Random Password Generator - JAVATPOINT")
+    gui_root.title("Random Password Generator")
     # configuring the size and position of the window
     gui_root.geometry("500x450+400+200")
     # setting the background color of the window
